@@ -1,0 +1,160 @@
+[
+	{
+		"field":"zipCode",
+		"firstName":"Adi",
+		"lastName":"Prabhu",
+		"address":"1234 Thomas Avenue",
+		"city":"Urban",
+		"state":"PA",
+		"zipCode":"",
+		"phone":"9039102932",
+		"ssn":"6392",
+		"username":"Adi",
+		"password":"AdiPrabhu@1234",
+		"confirmpassword":"AdiPrabhu@1234",
+		"expectedError":"Zip Code is required."
+	},
+	
+	{
+		"field":"address",	
+		"firstName":"Lahm",
+			"lastName":"Pur",
+			"address":"",
+			"city":"NY",
+			"state":"NY",
+			"zipCode":"71023",
+			"phone":"90391029123",
+			"ssn":"6192",
+			"username":"Pur",
+			"password":"Pur@1234",
+			"confirmpassword":"Pur@1234",
+			"expectedError":"Address is required."
+	
+		},
+		
+	{
+			"field":"firstName",	
+			"firstName":"",
+			"lastName":"oori",
+			"address":"897 Block St",
+			"city":"Kansis",
+			"state":"MN",
+			"zipCode":"70023",
+			"phone":"91391029123",
+			"ssn":"6102",
+			"username":"oori",
+			"password":"oori@1234",
+			"confirmpassword":"oori@1234",
+			"expectedError":"First name is required."
+	},
+	{
+		"field":"lastName",		
+		"firstName":"oori",
+				"lastName":"",
+				"address":"897 Block St",
+				"city":"Kansis",
+				"state":"MN",
+				"zipCode":"70023",
+				"phone":"91391029123",
+				"ssn":"6102",
+				"username":"oori",
+				"password":"oori@1234",
+				"confirmpassword":"oori@1234",
+				"expectedError":"Last name is required."
+		},
+		{
+			"field":"city",					
+			"firstName":"oori",
+						"lastName":"laba",
+						"address":"897 Block St",
+						"city":"",
+						"state":"MN",
+						"zipCode":"70023",
+						"phone":"91391029123",
+						"ssn":"6102",
+						"username":"oori",
+						"password":"oori@1234",
+						"confirmpassword":"oori@1234",
+						"expectedError":"City is required."
+		},
+		
+		{
+			"field":"ssn",			
+			"firstName":"lan",
+				"lastName":"oori",
+				"address":"897 Block St",
+				"city":"Kansis",
+				"state":"MN",
+				"zipCode":"70023",
+				"phone":"91391029123",
+				"ssn":"",
+				"username":"oori",
+				"password":"oori@1234",
+				"confirmpassword":"oori@1234",
+				"expectedError":"Social Security Number is required."
+		},		
+		{
+			"field":"username",			
+			"firstName":"lan",
+				"lastName":"oori",
+				"address":"897 Block St",
+				"city":"Kansis",
+				"state":"MN",
+				"zipCode":"70023",
+				"phone":"91391029123",
+				"ssn":"1234",
+				"username":"",
+				"password":"oori@1234",
+				"confirmpassword":"oori@1234",
+				"expectedError":"Username is required."
+		},
+				
+		{
+			"field":"password",			
+			"firstName":"lan",
+				"lastName":"oori",
+				"address":"897 Block St",
+				"city":"Kansis",
+				"state":"MN",
+				"zipCode":"70023",
+				"phone":"91391029123",
+				"ssn":"9080",
+				"username":"Lanori",
+				"password":"",
+				"confirmpassword":"oori@1234",
+				"expectedError":"Password is required."
+		},
+			{
+					"field":"confirmpassword",		
+					"firstName":"lan",
+					"lastName":"oori",
+					"address":"897 Block St",
+					"city":"Kansis",
+					"state":"MN",
+					"zipCode":"70023",
+					"phone":"91391029123",
+					"ssn":"2345",
+					"username":"Lanori",
+					"password":"oori@1234",
+					"confirmpassword":"",
+					"expectedError":"Password confirmation is required."
+			},
+			{
+								"field":"state",		
+								"firstName":"lan",
+								"lastName":"oori",
+								"address":"897 Block St",
+								"city":"Kansis",
+								"state":"",
+								"zipCode":"70023",
+								"phone":"91391029123",
+								"ssn":"2345",
+								"username":"Lanori",
+								"password":"oori@1234",
+								"confirmpassword":"oori@1234",
+								"expectedError":"State is required."
+						}
+	
+						
+		
+]

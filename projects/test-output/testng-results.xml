@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-30T15:36:14 PDT" name="Default suite" finished-at="2025-06-30T15:36:57 PDT" duration-ms="43663">
+    <groups>
+    </groups>
+    <test started-at="2025-06-30T15:36:14 PDT" name="Default test" finished-at="2025-06-30T15:36:57 PDT" duration-ms="43663">
+      <class name="UILearnings.projects.ParabankRegistrationTest">
+        <test-method is-config="true" signature="LoadHomePage()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:14 PDT" name="LoadHomePage" finished-at="2025-06-30T15:36:19 PDT" duration-ms="4676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadHomePage -->
+        <test-method signature="testRegistration(UILearnings.projectsData.RegistrationData)[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:19 PDT" name="testRegistration" data-provider="RegistrationData" finished-at="2025-06-30T15:36:20 PDT" duration-ms="1201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UILearnings.projectsData.RegistrationData@5215cd9a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:20 PDT" name="teardown" finished-at="2025-06-30T15:36:20 PDT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="LoadHomePage()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:20 PDT" name="LoadHomePage" finished-at="2025-06-30T15:36:23 PDT" duration-ms="3241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadHomePage -->
+        <test-method signature="testRegistration(UILearnings.projectsData.RegistrationData)[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:23 PDT" name="testRegistration" data-provider="RegistrationData" finished-at="2025-06-30T15:36:24 PDT" duration-ms="884" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UILearnings.projectsData.RegistrationData@18fdb6cf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:24 PDT" name="teardown" finished-at="2025-06-30T15:36:24 PDT" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="LoadHomePage()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:24 PDT" name="LoadHomePage" finished-at="2025-06-30T15:36:27 PDT" duration-ms="3036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadHomePage -->
+        <test-method signature="testRegistration(UILearnings.projectsData.RegistrationData)[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:27 PDT" name="testRegistration" data-provider="RegistrationData" finished-at="2025-06-30T15:36:28 PDT" duration-ms="942" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UILearnings.projectsData.RegistrationData@3015db78]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:28 PDT" name="teardown" finished-at="2025-06-30T15:36:28 PDT" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="LoadHomePage()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:28 PDT" name="LoadHomePage" finished-at="2025-06-30T15:36:31 PDT" duration-ms="2738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadHomePage -->
+        <test-method signature="testRegistration(UILearnings.projectsData.RegistrationData)[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:31 PDT" name="testRegistration" data-provider="RegistrationData" finished-at="2025-06-30T15:36:32 PDT" duration-ms="945" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UILearnings.projectsData.RegistrationData@64b7225f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:32 PDT" name="teardown" finished-at="2025-06-30T15:36:32 PDT" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="LoadHomePage()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:32 PDT" name="LoadHomePage" finished-at="2025-06-30T15:36:35 PDT" duration-ms="2731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadHomePage -->
+        <test-method signature="testRegistration(UILearnings.projectsData.RegistrationData)[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:35 PDT" name="testRegistration" data-provider="RegistrationData" finished-at="2025-06-30T15:36:36 PDT" duration-ms="881" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UILearnings.projectsData.RegistrationData@25cd49a4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:36 PDT" name="teardown" finished-at="2025-06-30T15:36:36 PDT" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="LoadHomePage()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:36 PDT" name="LoadHomePage" finished-at="2025-06-30T15:36:39 PDT" duration-ms="3585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadHomePage -->
+        <test-method signature="testRegistration(UILearnings.projectsData.RegistrationData)[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:39 PDT" name="testRegistration" data-provider="RegistrationData" finished-at="2025-06-30T15:36:40 PDT" duration-ms="935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UILearnings.projectsData.RegistrationData@421056e5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:40 PDT" name="teardown" finished-at="2025-06-30T15:36:40 PDT" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="LoadHomePage()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:40 PDT" name="LoadHomePage" finished-at="2025-06-30T15:36:43 PDT" duration-ms="2895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadHomePage -->
+        <test-method signature="testRegistration(UILearnings.projectsData.RegistrationData)[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:43 PDT" name="testRegistration" data-provider="RegistrationData" finished-at="2025-06-30T15:36:44 PDT" duration-ms="935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UILearnings.projectsData.RegistrationData@48976e6d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:44 PDT" name="teardown" finished-at="2025-06-30T15:36:44 PDT" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="LoadHomePage()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:44 PDT" name="LoadHomePage" finished-at="2025-06-30T15:36:47 PDT" duration-ms="2613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadHomePage -->
+        <test-method signature="testRegistration(UILearnings.projectsData.RegistrationData)[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:47 PDT" name="testRegistration" data-provider="RegistrationData" finished-at="2025-06-30T15:36:48 PDT" duration-ms="952" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UILearnings.projectsData.RegistrationData@10a98392]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:48 PDT" name="teardown" finished-at="2025-06-30T15:36:48 PDT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="LoadHomePage()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:48 PDT" name="LoadHomePage" finished-at="2025-06-30T15:36:51 PDT" duration-ms="3022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadHomePage -->
+        <test-method signature="testRegistration(UILearnings.projectsData.RegistrationData)[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:51 PDT" name="testRegistration" data-provider="RegistrationData" finished-at="2025-06-30T15:36:52 PDT" duration-ms="1102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UILearnings.projectsData.RegistrationData@7f7b6639]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:52 PDT" name="teardown" finished-at="2025-06-30T15:36:52 PDT" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="LoadHomePage()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:52 PDT" name="LoadHomePage" finished-at="2025-06-30T15:36:56 PDT" duration-ms="3535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadHomePage -->
+        <test-method signature="testRegistration(UILearnings.projectsData.RegistrationData)[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:56 PDT" name="testRegistration" data-provider="RegistrationData" finished-at="2025-06-30T15:36:57 PDT" duration-ms="1385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UILearnings.projectsData.RegistrationData@5099c59b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UILearnings.projects.ParabankRegistrationTest@6cf0e0ba]" started-at="2025-06-30T15:36:57 PDT" name="teardown" finished-at="2025-06-30T15:36:57 PDT" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- UILearnings.projects.ParabankRegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
